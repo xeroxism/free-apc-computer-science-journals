@@ -9,11 +9,11 @@ It was necessitated by the number of requests or research networks by new author
 
 And I hope it would be useful to such persons. And Most importantly, it is being hosted here in Github for the purpose of collaborative updating and maintenance.
 
-So contributions are welcomed!
+So [contributions](https://github.com/xeroxism/free-apc-computer-science-journals/blob/main/CONTRIBUTING.md) are welcomed!
 
 
-## Journals
- [Index](https://github.com/xeroxism/free-apc-computer-science-journals/blob/main/journals/free-apc-computer-science-journals.md)
+# Journals
+GET STARTED HERE: [Index](https://github.com/xeroxism/free-apc-computer-science-journals/blob/main/journals/free-apc-computer-science-journals.md)
  
  
 
