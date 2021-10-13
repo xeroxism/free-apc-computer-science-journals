@@ -1,10 +1,10 @@
 # How to contribute
 
-By contributing you agree to the LICENSE of this repository.
+By contributing you agree to the [LICENSE](https://github.com/xeroxism/free-apc-computer-science-journals/blob/main/LICENSE.md) of this repository.
 
 ## Contribution Code of Conduct
 
-By contributing to you agree to respect the Code of Conduct of this repository.
+By contributing to you agree to respect the [Code of Conduct](https://github.com/xeroxism/free-apc-computer-science-journals/blob/main/CODE_OF_CONDUCT.md) of this repository.
 
 ## Contribution is simple:
 
