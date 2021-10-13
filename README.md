@@ -3,7 +3,7 @@
 
 # Introduction
 
-This is a list of journals that do not charge authors any fee for publishing research articles in computer science and computer engineering.
+This is a [list of journals](https://github.com/xeroxism/free-apc-computer-science-journals/blob/main/journals/free-apc-computer-science-journals.md) that *do not charge authors any fee* for publishing research articles in computer science and computer engineering.
 
 It was necessitated by the number of requests or research networks by new authors (researchers) that are looking forward to make their first peer-review article.
 
@@ -14,6 +14,8 @@ So [contributions](https://github.com/xeroxism/free-apc-computer-science-journal
 
 # Journals
 GET STARTED HERE: [Journal Index](https://github.com/xeroxism/free-apc-computer-science-journals/blob/main/journals/free-apc-computer-science-journals.md)
+ 
+ 
  
  
 
