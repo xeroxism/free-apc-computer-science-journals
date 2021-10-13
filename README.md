@@ -13,18 +13,16 @@ So [contributions](https://github.com/xeroxism/free-apc-computer-science-journal
 
 
 # Journals
-GET STARTED HERE: [Index](https://github.com/xeroxism/free-apc-computer-science-journals/blob/main/journals/free-apc-computer-science-journals.md)
+GET STARTED HERE: [Journal Index](https://github.com/xeroxism/free-apc-computer-science-journals/blob/main/journals/free-apc-computer-science-journals.md)
  
  
 
-# How to share
+# Spread the Word!
 
-- Share on Twitter
+- [Share on Twitter](https://twitter.com/intent/tweet?text=https%3A//github.com/xeroxism/free-apc-computer-science-journals)
 
-- Share on Facebook
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/xeroxism/free-apc-computer-science-journals )
 
-- Share on LinkedIn
+- [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/xeroxism/free-apc-computer-science-journals&title=List%20of%20Computer%20Science%20and%20Engineering%20Journals%20with%20FREE%20Article%20Processing%20Charge%20(APC)%20for%20Authors&summary=&source= )
 
-- Share on Telegram
 
-- Share on WhatsApp
