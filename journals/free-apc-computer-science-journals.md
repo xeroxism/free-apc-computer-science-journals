@@ -1,9 +1,23 @@
 # Index
+
 [CLEI Electronic Journal](http://www.clei.org/cleiej/index.php/cleiej) (ISSN: 0717- 5000, LANGUAGE(S): English)
+
+[Cultural and Historical Heritage: Preservation, Representation, Digitalization
+](http://www.math.bas.bg/vt/kin/index.php) (ISSN: 2367-8038, LANGUAGE(S): Russian, Bulgarian, English) 
+
+[Cybernetics and Computer Engineering](http://kvt-journal.org.ua/) (ISSN: 2663-2586, LANGUAGE(S): English, Ukrainian)
 
 [Journal of Computational Geometry](https://jocg.org/index.php/jocg) (ISSN: 1920-180X, LANGUAGE(S): English)
 
+
 [Journal of Computational Engineering and Physical Modeling](http://www.jcepm.com/) (ISSN: 2588-6959, LANGUAGE(S): English)
+
+[Informatics and Automation](http://proceedings.spiiras.nw.ru/index.php/sp/index) (ISSN: 2713-3206, LANGUAGE(S): English, Russian)
+
+[Inteligencia Artificial](http://journal.iberamia.org/index.php/intartif) (ISSN: 1988-3064, LANGUAGE(S): English, Spanish)
+
+[Journal of Universal Computer Science](https://lib.jucs.org/) (ISSN:0948-6968, LANGUAGE(S): English)
+
 
 [Frontiers in Health Informatics](http://ijmi.ir/index.php/IJMI) (ISSN: 2676-7104, LANGUAGE(S): English)
 
