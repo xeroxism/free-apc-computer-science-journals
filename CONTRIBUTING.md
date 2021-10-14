@@ -33,9 +33,6 @@ Examples
 - There should be no line between two links.
 
 	[International Journal of Example](https://journal.com/example.html) (ISSN: 12345-03, LANGUAGE(S): English)
-
-  
-
 	[Another International Journal of Example](https://journal.com/example.html) (ISSN: 12345-03, LANGUAGE(S): French)
 
  
