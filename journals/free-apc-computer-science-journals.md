@@ -28,6 +28,7 @@
 * [Journal of Computational Engineering and Physical Modeling](http://www.jcepm.com/) (ISSN: 2588-6959, LANGUAGE(S): English)
 
 * [Journal of Computational Geometry](https://jocg.org/index.php/jocg) (ISSN: 1920-180X, LANGUAGE(S): English)
+* [Journal of Information Technology and Computer Engineering](http://jitce.fti.unand.ac.id/index.php/JITCE) (ISSN: 2599-1663, LANGUAGE(S): English, Indonesian)
 
 * [Journal of Universal Computer Science](https://lib.jucs.org/) (ISSN: 0948-6968, LANGUAGE(S): English)
 
@@ -37,3 +38,4 @@
 * [Open Computer Science](https://www.degruyter.com/journal/key/comp/html) (ISSN: 2299-1093, LANGUAGE(S): English)
 
 * [Proceedings of the Institute for system programming of the RAS](https://ispranproceedings.elpub.ru/jour/index) (ISSN: 2220-6426, LANGUAGE(S): English, Russian)
+* [Scientific and Practical Cyber Security Journal](https://journal.scsa.ge/) (ISSN: 2587-4667, LANGUAGE(S): English, Georgian, Russian)
