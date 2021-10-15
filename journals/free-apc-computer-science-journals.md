@@ -1,5 +1,7 @@
 # Index
 
+* [Advances in Distributed Computing and Artificial Intelligence Journal](https://revistas.usal.es/index.php/2255-2863/index) (ISSN: 2255-2863, LANGUAGE(S): English)
+* [Annals of computer science and information systems](https://annals-csis.org/) (ISSN: 2300-5963, LANGUAGE(S): English)
 * [CIT. Journal of Computing and Information Technology](http://cit.fer.hr/index.php/CIT/index) (ISSN: 1846-3908, LANGUAGE(S): English)
 
 * [CLEI Electronic Journal](http://www.clei.org/cleiej/index.php/cleiej) (ISSN: 0717- 5000, LANGUAGE(S): English)
@@ -12,6 +14,7 @@
 * [EAI Endorsed Transactions on Cloud Systems](https://eudl.eu/journal/cs) (ISSN: 2410-6895, LANGUAGE(S): English)
 
 * [Frontiers in Health Informatics](http://ijmi.ir/index.php/IJMI) (ISSN: 2676-7104, LANGUAGE(S): English)
+* [GMS Medical Informatics, Biometry and Epidemiology](https://www.egms.de/dynamic/en/journals/mibe/index.htm) (ISSN: 1860-9171, LANGUAGE(S): English, German)
 
 * [Informatics and Automation](http://proceedings.spiiras.nw.ru/index.php/sp/index) (ISSN: 2713-3206, LANGUAGE(S): English, Russian)
 
@@ -26,6 +29,7 @@
 * [Journal of Universal Computer Science](https://lib.jucs.org/) (ISSN: 0948-6968, LANGUAGE(S): English)
 
 * [Logical Methods in Computer Science](https://lmcs.episciences.org/) (ISSN: 1860-5974, LANGUAGE(S): English)
+* [Neutrosophic Sets and Systems](http://fs.unm.edu/NSS/) (ISSN: 2331-6055, LANGUAGE(S): English)
 
 * [Open Computer Science](https://www.degruyter.com/journal/key/comp/html) (ISSN: 2299-1093, LANGUAGE(S): English)
 
