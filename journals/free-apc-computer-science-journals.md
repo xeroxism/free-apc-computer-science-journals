@@ -6,6 +6,7 @@
 
 * [CLEI Electronic Journal](http://www.clei.org/cleiej/index.php/cleiej) (ISSN: 0717- 5000, LANGUAGE(S): English)
 
+* [Computational Ecology and Software](http://www.iaees.org/publications/journals/ces/online-version.asp) (ISSN: 2220-721X, LANGUAGE(S): English)
 * [Cultural and Historical Heritage: Preservation, Representation, Digitalization
 ](http://www.math.bas.bg/vt/kin/index.php) (ISSN: 2367-8038, LANGUAGE(S): Russian, Bulgarian, English) 
 
@@ -21,6 +22,7 @@
 * [Innovation and Software](https://revistas.ulasalle.edu.pe/innosoft) (ISSN: 2708-0935, LANGUAGE(S): English, Spanish)
 
 * [Inteligencia Artificial](http://journal.iberamia.org/index.php/intartif) (ISSN: 1988-3064, LANGUAGE(S): English, Spanish)
+* [International Journal of Open Information Technologies](http://injoit.org/index.php/j1) (ISSN: 2307-8162, LANGUAGE(S): English, Russian)
 * [International Journal of Serious Games](http://journal.seriousgamessociety.org/index.php/IJSG) (ISSN: 2384-8766
 , LANGUAGE(S): English)
 * [Issues in Information Systems](https://iacis.org/iis/iis.php) (ISSN: 1529-7314, LANGUAGE(S): English)
@@ -28,6 +30,8 @@
 * [Journal of Computational Engineering and Physical Modeling](http://www.jcepm.com/) (ISSN: 2588-6959, LANGUAGE(S): English)
 
 * [Journal of Computational Geometry](https://jocg.org/index.php/jocg) (ISSN: 1920-180X, LANGUAGE(S): English)
+* [Journal of Electrical, Electronics and Informatics](https://ojs.unud.ac.id/index.php/JEEI) (ISSN: 2622-0393, LANGUAGE(S): English, Indonesian)
+* [Journal of Electrical Systems and Information Technology](https://jesit.springeropen.com/) (ISSN: 2314-7172, LANGUAGE(S): English)
 * [Journal of Information Technology and Computer Engineering](http://jitce.fti.unand.ac.id/index.php/JITCE) (ISSN: 2599-1663, LANGUAGE(S): English, Indonesian)
 
 * [Journal of Universal Computer Science](https://lib.jucs.org/) (ISSN: 0948-6968, LANGUAGE(S): English)
@@ -39,3 +43,5 @@
 
 * [Proceedings of the Institute for system programming of the RAS](https://ispranproceedings.elpub.ru/jour/index) (ISSN: 2220-6426, LANGUAGE(S): English, Russian)
 * [Scientific and Practical Cyber Security Journal](https://journal.scsa.ge/) (ISSN: 2587-4667, LANGUAGE(S): English, Georgian, Russian)
+
+
