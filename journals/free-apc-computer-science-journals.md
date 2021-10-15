@@ -30,9 +30,9 @@
 * [Journal of Computational Engineering and Physical Modeling](http://www.jcepm.com/) (ISSN: 2588-6959, LANGUAGE(S): English)
 
 * [Journal of Computational Geometry](https://jocg.org/index.php/jocg) (ISSN: 1920-180X, LANGUAGE(S): English)
+* [Journal of Electrical, Electronics and Informatics](https://ojs.unud.ac.id/index.php/JEEI) (ISSN: 2622-0393, LANGUAGE(S): English, Indonesian)
 * [Journal of Electrical Systems and Information Technology](https://jesit.springeropen.com/) (ISSN: 2314-7172, LANGUAGE(S): English)
 * [Journal of Information Technology and Computer Engineering](http://jitce.fti.unand.ac.id/index.php/JITCE) (ISSN: 2599-1663, LANGUAGE(S): English, Indonesian)
-* [Journal of Electrical, Electronics and Informatics](https://ojs.unud.ac.id/index.php/JEEI) (ISSN: 2622-0393, LANGUAGE(S): English, Indonesian)
 
 * [Journal of Universal Computer Science](https://lib.jucs.org/) (ISSN: 0948-6968, LANGUAGE(S): English)
 
