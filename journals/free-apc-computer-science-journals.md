@@ -21,6 +21,9 @@
 * [Innovation and Software](https://revistas.ulasalle.edu.pe/innosoft) (ISSN: 2708-0935, LANGUAGE(S): English, Spanish)
 
 * [Inteligencia Artificial](http://journal.iberamia.org/index.php/intartif) (ISSN: 1988-3064, LANGUAGE(S): English, Spanish)
+* [International Journal of Serious Games](http://journal.seriousgamessociety.org/index.php/IJSG) (ISSN: 2384-8766
+, LANGUAGE(S): English)
+* [Issues in Information Systems](https://iacis.org/iis/iis.php) (ISSN: 1529-7314, LANGUAGE(S): English)
 
 * [Journal of Computational Engineering and Physical Modeling](http://www.jcepm.com/) (ISSN: 2588-6959, LANGUAGE(S): English)
 
