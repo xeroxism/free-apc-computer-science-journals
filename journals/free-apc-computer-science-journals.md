@@ -26,17 +26,22 @@
 * [Innovation and Software](https://revistas.ulasalle.edu.pe/innosoft) (ISSN: 2708-0935, LANGUAGE(S): English, Spanish)
 
 * [Inteligencia Artificial](http://journal.iberamia.org/index.php/intartif) (ISSN: 1988-3064, LANGUAGE(S): English, Spanish)
+* [International Journal of Information Security Science](http://www.ijiss.org/ijiss/index.php/ijiss) (ISSN: 2147-0030 LANGUAGE(S): English)
 * [International Journal of Open Information Technologies](http://injoit.org/index.php/j1) (ISSN: 2307-8162, LANGUAGE(S): English, Russian)
-* [International Journal of Serious Games](http://journal.seriousgamessociety.org/index.php/IJSG) (ISSN: 2384-8766
-, LANGUAGE(S): English)
+* [International Journal of Serious Games](http://journal.seriousgamessociety.org/index.php/IJSG) (ISSN: 2384-8766 LANGUAGE(S): English)
 * [Issues in Information Systems](https://iacis.org/iis/iis.php) (ISSN: 1529-7314, LANGUAGE(S): English)
 
+* [Journal of Communications Software and Systems](https://jcoms.fesb.unist.hr/) (ISSN: 1846-6079, LANGUAGE(S): English)
+
 * [Journal of Artificial Intelligence and Data Mining](http://jad.shahroodut.ac.ir/) (ISSN: 2322-4444, LANGUAGE(S): English)
+
 * [Journal of Computational Engineering and Physical Modeling](http://www.jcepm.com/) (ISSN: 2588-6959, LANGUAGE(S): English)
 * [Journal of Computational Geometry](https://jocg.org/index.php/jocg) (ISSN: 1920-180X, LANGUAGE(S): English)
+* [Journal of Electrical and Computer Engineering Innovations](https://jecei.sru.ac.ir/) (ISSN: 2345-3044, LANGUAGE(S): English)
 * [Journal of Electrical, Electronics and Informatics](https://ojs.unud.ac.id/index.php/JEEI) (ISSN: 2622-0393, LANGUAGE(S): English, Indonesian)
 * [Journal of Electrical Systems and Information Technology](https://jesit.springeropen.com/) (ISSN: 2314-7172, LANGUAGE(S): English)
 * [Journal of Information Technology and Computer Engineering](http://jitce.fti.unand.ac.id/index.php/JITCE) (ISSN: 2599-1663, LANGUAGE(S): English, Indonesian)
+* [Journal of Engineering Science (Chişinău)](https://jes.utm.md/) (ISSN: 2587-3482, LANGUAGE(S): English)
 
 * [Journal of Universal Computer Science](https://lib.jucs.org/) (ISSN: 0948-6968, LANGUAGE(S): English)
 
