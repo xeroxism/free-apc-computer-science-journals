@@ -13,7 +13,6 @@
 * [Cybernetics and Computer Engineering](http://kvt-journal.org.ua/) (ISSN: 2663-2586, LANGUAGE(S): English, Ukrainian)
 
 * [EAI Endorsed Transactions on Cloud Systems](https://eudl.eu/journal/cs) (ISSN: 2410-6895, LANGUAGE(S): English)
-* [EAI Endorsed Transactions on Ambient Systems](https://eudl.eu/journal/amsys) (ISSN: 2032-927X, LANGUAGE(S): English)
 
 * [Frontiers in Health Informatics](http://ijmi.ir/index.php/IJMI) (ISSN: 2676-7104, LANGUAGE(S): English)
 * [GMS Medical Informatics, Biometry and Epidemiology](https://www.egms.de/dynamic/en/journals/mibe/index.htm) (ISSN: 1860-9171, LANGUAGE(S): English, German)
@@ -23,9 +22,9 @@
 * [Innovation and Software](https://revistas.ulasalle.edu.pe/innosoft) (ISSN: 2708-0935, LANGUAGE(S): English, Spanish)
 
 * [Inteligencia Artificial](http://journal.iberamia.org/index.php/intartif) (ISSN: 1988-3064, LANGUAGE(S): English, Spanish)
+* [International Journal of Information Security Science](http://www.ijiss.org/ijiss/index.php/ijiss) (ISSN: 2147-0030 LANGUAGE(S): English)
 * [International Journal of Open Information Technologies](http://injoit.org/index.php/j1) (ISSN: 2307-8162, LANGUAGE(S): English, Russian)
-* [International Journal of Serious Games](http://journal.seriousgamessociety.org/index.php/IJSG) (ISSN: 2384-8766
-, LANGUAGE(S): English)
+* [International Journal of Serious Games](http://journal.seriousgamessociety.org/index.php/IJSG) (ISSN: 2384-8766 LANGUAGE(S): English)
 * [Issues in Information Systems](https://iacis.org/iis/iis.php) (ISSN: 1529-7314, LANGUAGE(S): English)
 
 * [Journal of Communications Software and Systems](https://jcoms.fesb.unist.hr/) (ISSN: 1846-6079, LANGUAGE(S): English)
