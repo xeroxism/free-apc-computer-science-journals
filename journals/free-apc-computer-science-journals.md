@@ -13,6 +13,7 @@
 * [Cybernetics and Computer Engineering](http://kvt-journal.org.ua/) (ISSN: 2663-2586, LANGUAGE(S): English, Ukrainian)
 
 * [EAI Endorsed Transactions on Cloud Systems](https://eudl.eu/journal/cs) (ISSN: 2410-6895, LANGUAGE(S): English)
+* [EAI Endorsed Transactions on Ambient Systems](https://eudl.eu/journal/amsys) (ISSN: 2032-927X, LANGUAGE(S): English)
 
 * [Frontiers in Health Informatics](http://ijmi.ir/index.php/IJMI) (ISSN: 2676-7104, LANGUAGE(S): English)
 * [GMS Medical Informatics, Biometry and Epidemiology](https://www.egms.de/dynamic/en/journals/mibe/index.htm) (ISSN: 1860-9171, LANGUAGE(S): English, German)
@@ -27,12 +28,14 @@
 , LANGUAGE(S): English)
 * [Issues in Information Systems](https://iacis.org/iis/iis.php) (ISSN: 1529-7314, LANGUAGE(S): English)
 
+* [Journal of Communications Software and Systems](https://jcoms.fesb.unist.hr/) (ISSN: 1846-6079, LANGUAGE(S): English)
 * [Journal of Computational Engineering and Physical Modeling](http://www.jcepm.com/) (ISSN: 2588-6959, LANGUAGE(S): English)
-
 * [Journal of Computational Geometry](https://jocg.org/index.php/jocg) (ISSN: 1920-180X, LANGUAGE(S): English)
+* [Journal of Electrical and Computer Engineering Innovations](https://jecei.sru.ac.ir/) (ISSN: 2345-3044, LANGUAGE(S): English)
 * [Journal of Electrical, Electronics and Informatics](https://ojs.unud.ac.id/index.php/JEEI) (ISSN: 2622-0393, LANGUAGE(S): English, Indonesian)
 * [Journal of Electrical Systems and Information Technology](https://jesit.springeropen.com/) (ISSN: 2314-7172, LANGUAGE(S): English)
 * [Journal of Information Technology and Computer Engineering](http://jitce.fti.unand.ac.id/index.php/JITCE) (ISSN: 2599-1663, LANGUAGE(S): English, Indonesian)
+* [Journal of Engineering Science (Chişinău)](https://jes.utm.md/) (ISSN: 2587-3482, LANGUAGE(S): English)
 
 * [Journal of Universal Computer Science](https://lib.jucs.org/) (ISSN: 0948-6968, LANGUAGE(S): English)
 
