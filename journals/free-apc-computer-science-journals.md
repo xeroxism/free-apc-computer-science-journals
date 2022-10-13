@@ -58,4 +58,5 @@
 * [Scientific and Practical Cyber Security Journal](https://journal.scsa.ge/) (ISSN: 2587-4667, LANGUAGE(S): English, Georgian, Russian)
 * [Journal of Information Technology and Computer Engineering(JITCE)](http://jitce.fti.unand.ac.id/index.php/JITCE) (ISSN: 2599-1663, LANGUAGE(S): Bahasa Indonesia (Indonesian language) OR English)
 * [Revista de Ciências da Computação](https://journals.uab.pt/index.php/rcc/index) (ISSN: 2182-1801, LANGUAGE(S): English, Portuguese)
+* [Journal of Information Security and Cybercrimes Research](https://journals.nauss.edu.sa/index.php/JISCR) (ISSN: 1658-7790, LANGUAGE(S): English)
 
