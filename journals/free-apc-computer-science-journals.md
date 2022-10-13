@@ -56,5 +56,6 @@
 * [Periodicals of Engineering and Natural Sciences (PEN)](http://pen.ius.edu.ba/index.php/pen) (ISSN: 2303-4521, LANGUAGE(S): English)
 
 * [Scientific and Practical Cyber Security Journal](https://journal.scsa.ge/) (ISSN: 2587-4667, LANGUAGE(S): English, Georgian, Russian)
+* [Journal of Information Technology and Computer Engineering(JITCE)](http://jitce.fti.unand.ac.id/index.php/JITCE) (ISSN: 2599-1663, LANGUAGE(S): Bahasa Indonesia (Indonesian language) OR English)
 
 
