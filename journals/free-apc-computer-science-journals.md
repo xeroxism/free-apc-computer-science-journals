@@ -67,3 +67,4 @@
 * [Advances in Electrical and Electronic Engineering  - AEEE](http://advances.utc.sk/) (ISSN:  1804-3119, LANGUAGE(S): English)
 * [Journal of Formalized Reasoning](http://jfr.unibo.it/) (ISSN:  1972-5787, LANGUAGE(S): English)
 * [Journal of Software Engineering Research and Development](https://sol.sbc.org.br/journals/index.php/jserd/index) (ISSN:  2195-1721, LANGUAGE(S): English)
+* [Journal of Open Source Software](http://joss.theoj.org/) (ISSN:  2475-9066, LANGUAGE(S): English)
