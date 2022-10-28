@@ -65,3 +65,4 @@
 * [Acta Polytechnica](https://ojs.cvut.cz/ojs/index.php/ap/index) (ISSN:  1210-2709, LANGUAGE(S): English)
 * [Anale: Seria Informatică](http://anale-informatica.tibiscus.ro/?page=00_primapagina&lang=en) (ISSN:  1583-7165, LANGUAGE(S): English, French, German)
 * [Advances in Electrical and Electronic Engineering  - AEEE](http://advances.utc.sk/) (ISSN:  1804-3119, LANGUAGE(S): English)
+* [Journal of Formalized Reasoning](http://jfr.unibo.it/) (ISSN:  1972-5787, LANGUAGE(S): English)
