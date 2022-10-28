@@ -63,4 +63,5 @@
 * [Abakós](http://periodicos.pucminas.br/index.php/abakos/) (ISSN:  2316-9451, LANGUAGE(S): English, Portuguese)
 * [Exatas Online](http://www2.uesb.br/exatasonline/) (ISSN:  2178-0471, LANGUAGE(S): English, Portuguese)
 * [Acta Polytechnica](https://ojs.cvut.cz/ojs/index.php/ap/index) (ISSN:  1210-2709, LANGUAGE(S): English)
+* [Anale: Seria Informatică](http://anale-informatica.tibiscus.ro/?page=00_primapagina&lang=en) (ISSN:  1583-7165, LANGUAGE(S): English, French, German)
 
