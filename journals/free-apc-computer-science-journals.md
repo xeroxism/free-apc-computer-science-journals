@@ -69,5 +69,6 @@
 * [Journal of Software Engineering Research and Development](https://sol.sbc.org.br/journals/index.php/jserd/index) (ISSN:  2195-1721, LANGUAGE(S): English)
 * [Journal of Open Source Software](http://joss.theoj.org/) (ISSN:  2475-9066, LANGUAGE(S): English)
 * [Data Science and Engineering](http://www.springer.com/41019) (ISSN:  2364-1541, LANGUAGE(S): English)
-* [Journal of Creative Music Systems](https://www.jcms.org.uk/) (ISSN: 2399-7656, English)
-* [International Journal of Cyber Criminology](http://www.cybercrimejournal.com/) (ISSN: 0974-2891, English)
+* [Journal of Creative Music Systems](https://www.jcms.org.uk/) (ISSN: 2399-7656, LANGUAGE(S): English)
+* [International Journal of Cyber Criminology](http://www.cybercrimejournal.com/) (ISSN: 0974-2891, LANGUAGE(S): English)
+* [Ukrainian Journal of Educational Studies and Information Technology](https://uesit.org.ua/index.php/itse) (ISSN: 2521-1234, LANGUAGE(S): English, Ukrainian, Russian)
