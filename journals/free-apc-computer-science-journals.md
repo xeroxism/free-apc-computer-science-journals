@@ -68,3 +68,4 @@
 * [Journal of Formalized Reasoning](http://jfr.unibo.it/) (ISSN:  1972-5787, LANGUAGE(S): English)
 * [Journal of Software Engineering Research and Development](https://sol.sbc.org.br/journals/index.php/jserd/index) (ISSN:  2195-1721, LANGUAGE(S): English)
 * [Journal of Open Source Software](http://joss.theoj.org/) (ISSN:  2475-9066, LANGUAGE(S): English)
+* [Data Science and Engineering](http://www.springer.com/41019) (ISSN:  2364-1541, LANGUAGE(S): English)
