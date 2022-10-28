@@ -61,5 +61,5 @@
 * [Journal of Information Security and Cybercrimes Research](https://journals.nauss.edu.sa/index.php/JISCR) (ISSN: 1658-7790, LANGUAGE(S): English)
 * [Technology and Regulation](https://techreg.org/) (ISSN:  2666-139X, LANGUAGE(S): English)
 * [Abakós](http://periodicos.pucminas.br/index.php/abakos/) (ISSN:  2316-9451, LANGUAGE(S): English, Portuguese)
-
+* [Exatas Online](http://www2.uesb.br/exatasonline/) (ISSN:  2178-0471, LANGUAGE(S): English, Portuguese)
 
