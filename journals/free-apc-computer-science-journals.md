@@ -70,3 +70,4 @@
 * [Journal of Open Source Software](http://joss.theoj.org/) (ISSN:  2475-9066, LANGUAGE(S): English)
 * [Data Science and Engineering](http://www.springer.com/41019) (ISSN:  2364-1541, LANGUAGE(S): English)
 * [Journal of Creative Music Systems](https://www.jcms.org.uk/) (ISSN: 2399-7656, English)
+* [International Journal of Cyber Criminology](http://www.cybercrimejournal.com/) (ISSN: 0974-2891, English)
