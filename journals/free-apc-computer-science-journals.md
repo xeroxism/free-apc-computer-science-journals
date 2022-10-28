@@ -62,4 +62,5 @@
 * [Technology and Regulation](https://techreg.org/) (ISSN:  2666-139X, LANGUAGE(S): English)
 * [Abakós](http://periodicos.pucminas.br/index.php/abakos/) (ISSN:  2316-9451, LANGUAGE(S): English, Portuguese)
 * [Exatas Online](http://www2.uesb.br/exatasonline/) (ISSN:  2178-0471, LANGUAGE(S): English, Portuguese)
+* [Acta Polytechnica](https://ojs.cvut.cz/ojs/index.php/ap/index) (ISSN:  1210-2709, LANGUAGE(S): English)
 
