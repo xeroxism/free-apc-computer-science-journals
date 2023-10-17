@@ -78,3 +78,4 @@
 * [Discussiones Mathematicae - General Algebra and Applications](https://www.dmgaa.uz.zgora.pl/) (ISSN: 1509-9415 (PRINT) / 2084-0373 (ONLINE), LANGUAGE(S): English)
 * [Jurnal Sarjana Teknik Informatika](http://journal.uad.ac.id/index.php/JSTIF/index) (ISSN: 2338-5197 (PRINT) / 2809-3399 (ONLINE), LANGUAGE(S): Indonesian)
 * [Technology and Regulation - TechReg](https://techreg.org/) (ISSN: 2666-139X, LANGUAGE(S): English)
+* [JITeCS (Journal of Information Technology and Computer Science)](http://jitecs.ub.ac.id/index.php/jitecs/index) (ISSN: 2540-9433 (PRINT) / 2540-9824 (ONLINE), LANGUAGE(S): English)
