@@ -72,3 +72,4 @@
 * [Journal of Creative Music Systems](https://www.jcms.org.uk/) (ISSN: 2399-7656, LANGUAGE(S): English)
 * [International Journal of Cyber Criminology](http://www.cybercrimejournal.com/) (ISSN: 0974-2891, LANGUAGE(S): English)
 * [Ukrainian Journal of Educational Studies and Information Technology](https://uesit.org.ua/index.php/itse) (ISSN: 2521-1234, LANGUAGE(S): English, Ukrainian, Russian)
+* [Database Systems Journal](https://dbjournal.ro/index.html) (ISSN: 2069-3230, LANGUAGE(S): English)
