@@ -75,3 +75,4 @@
 * [Ukrainian Journal of Educational Studies and Information Technology](https://uesit.org.ua/index.php/itse) (ISSN: 2521-1234, LANGUAGE(S): English, Ukrainian, Russian)
 * [Database Systems Journal](https://dbjournal.ro/index.html) (ISSN: 2069-3230, LANGUAGE(S): English)
 * [Human-Centric Intelligent Systems](https://www.springer.com/journal/44230) (ISSN: 2667-1336, LANGUAGE(S): English)
+* [Discussiones Mathematicae - General Algebra and Applications](https://www.dmgaa.uz.zgora.pl/) (ISSN: 1509-9415 (PRINT) / 2084-0373 (ONLINE), LANGUAGE(S): English)
