@@ -73,3 +73,4 @@
 * [International Journal of Cyber Criminology](http://www.cybercrimejournal.com/) (ISSN: 0974-2891, LANGUAGE(S): English)
 * [Ukrainian Journal of Educational Studies and Information Technology](https://uesit.org.ua/index.php/itse) (ISSN: 2521-1234, LANGUAGE(S): English, Ukrainian, Russian)
 * [Database Systems Journal](https://dbjournal.ro/index.html) (ISSN: 2069-3230, LANGUAGE(S): English)
+* [Blockchain Research and Applications](https://www.sciencedirect.com/journal/blockchain-research-and-applications) (ISSN: 2666-9536, LANGUAGE(S): English, chinese)
