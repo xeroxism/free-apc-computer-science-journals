@@ -68,6 +68,7 @@
 * [Journal of Formalized Reasoning](http://jfr.unibo.it/) (ISSN:  1972-5787, LANGUAGE(S): English)
 * [Journal of Software Engineering Research and Development](https://sol.sbc.org.br/journals/index.php/jserd/index) (ISSN:  2195-1721, LANGUAGE(S): English)
 * [Journal of Open Source Software](http://joss.theoj.org/) (ISSN:  2475-9066, LANGUAGE(S): English)
+* [Revista de Ciências da Computação](https://journals.uab.pt/index.php/rcc/index) (ISSN: 1646-6330 (PRINT) / 2182-1801 (ONLINE), LANGUAGE(S): English, Portuguese)
 * [Data Science and Engineering](http://www.springer.com/41019) (ISSN:  2364-1541, LANGUAGE(S): English)
 * [Journal of Creative Music Systems](https://www.jcms.org.uk/) (ISSN: 2399-7656, LANGUAGE(S): English)
 * [International Journal of Cyber Criminology](http://www.cybercrimejournal.com/) (ISSN: 0974-2891, LANGUAGE(S): English)
