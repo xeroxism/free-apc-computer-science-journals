@@ -82,3 +82,4 @@
 * [ORiON](http://orion.journals.ac.za/) (ISSN: 0259-191X (PRINT) / 2224-0004 (ONLINE), LANGUAGE(S): English)
 * [Dartmouth Undergraduate Journal of Science](https://sites.dartmouth.edu/dujs/) (ISSN:  2167-7883 (PRINT) / 2167-7891 (ONLINE), LANGUAGE(S): English)
 * [Vietnam Journal of Computer Science - JCS&T](https://www.worldscientific.com/worldscinet/vjcs) (ISSN:  2196-8888 (PRINT) / 2196-8896 (ONLINE), LANGUAGE(S): English)
+* [Sistemas de Informação](http://www.fsma.edu.br/si/infosystems.html) (ISSN:  1983-5604 (ONLINE), LANGUAGE(S): English, Portuguese)
