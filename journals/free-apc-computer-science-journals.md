@@ -83,3 +83,4 @@
 * [Dartmouth Undergraduate Journal of Science](https://sites.dartmouth.edu/dujs/) (ISSN:  2167-7883 (PRINT) / 2167-7891 (ONLINE), LANGUAGE(S): English)
 * [Vietnam Journal of Computer Science - JCS&T](https://www.worldscientific.com/worldscinet/vjcs) (ISSN:  2196-8888 (PRINT) / 2196-8896 (ONLINE), LANGUAGE(S): English)
 * [Sistemas de Informação](http://www.fsma.edu.br/si/infosystems.html) (ISSN:  1983-5604 (ONLINE), LANGUAGE(S): English, Portuguese)
+* [Asia-Pacific Journal of Information Technology and Multimedia](https://www.ukm.my/apjitm) (ISSN:  2289-2192 (ONLINE), LANGUAGE(S): Malay(macrolanguage), English)
