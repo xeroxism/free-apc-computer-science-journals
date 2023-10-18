@@ -81,3 +81,4 @@
 * [JITeCS (Journal of Information Technology and Computer Science)](http://jitecs.ub.ac.id/index.php/jitecs/index) (ISSN: 2540-9433 (PRINT) / 2540-9824 (ONLINE), LANGUAGE(S): English)
 * [ORiON](http://orion.journals.ac.za/) (ISSN: 0259-191X (PRINT) / 2224-0004 (ONLINE), LANGUAGE(S): English)
 * [Dartmouth Undergraduate Journal of Science](https://sites.dartmouth.edu/dujs/) (ISSN:  2167-7883 (PRINT) / 2167-7891 (ONLINE), LANGUAGE(S): English)
+* [Vietnam Journal of Computer Science - JCS&T](https://www.worldscientific.com/worldscinet/vjcs) (ISSN:  2196-8888 (PRINT) / 2196-8896 (ONLINE), LANGUAGE(S): English)
